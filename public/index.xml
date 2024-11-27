@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Welcome to Your Custom Server Solution on Cody Lang</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content in Welcome to Your Custom Server Solution on Cody Lang</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 26 Nov 2024 10:27:55 -0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Customer Reviews</title>
+      <link>http://localhost:1313/reviews/</link>
+      <pubDate>Tue, 26 Nov 2024 10:27:55 -0800</pubDate>
+      <guid>http://localhost:1313/reviews/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
