@@ -1,0 +1,49 @@
+.reviews {
+    font-family: 'Arial', sans-serif;
+    margin: 2rem 0;
+  
+    .review {
+      margin-bottom: 1.5rem;
+      padding: 1rem;
+      border-radius: 8px;
+      background-color: #626976;
+  
+      .review-header {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        margin-bottom: 0.5rem;
+  
+        .review-name {
+          font-weight: bold;
+          font-size: 1.2rem;
+        }
+  
+        .review-stars {
+          color: #ffc107;
+          font-size: 1.2rem;
+        }
+      }
+  
+      .review-text {
+        font-size: 1rem;
+        line-height: 1.5;
+        color: #fff;
+      }
+    }
+  
+    hr {
+      border: none;
+      border-top: 1px solid #555;
+      margin: 1rem 0;
+    }
+  }
+
+.services-pictures {
+  width: 300px !important; /* Desired width */
+  height: 200px !important; /* Adjusted for landscape */
+  object-fit: cover !important; /* Ensures cropping */
+  display: block !important; /* Necessary for centering */
+  margin: 0 auto !important; /* Centers the image horizontally */
+  border-radius: 10px;
+}

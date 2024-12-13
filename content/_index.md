@@ -11,7 +11,7 @@ Are you looking to set up a Minecraft server, host your favorite games, or confi
 
 ---
 
-## **Why Choose Cody?**
+## 👤 **Why Choose Me?**
 
 **Affordable Pricing**  
 I believe in fair prices that undercut big hosting corporations without sacrificing quality.
@@ -24,35 +24,20 @@ Whether you're setting up a local game server or a VPC, I make it simple.
 
 ---
 
-## **My Services**
+## ℹ More info!
 
-### Game Server Installations
-Expert setup for Minecraft, Valheim, ARK, and more.
-
-Local or cloud-based hosting tailored to your needs.
-
-### VPC Customization
-Create secure and scalable Virtual Private Clouds.
-
-Perfect for hosting, development, or business projects.
-
-### Backend Tech Assistance
-Simplify complex technologies like databases, networking, and server management.
-
-Ideal for individuals or small businesses without in-house tech expertise.
+{{< button href="../services/" target="_self" >}}
+💵 Services & Quote Range
+{{< /button >}}
+|
+{{< button href="../reviews/" target="_self" >}}
+⭐ Reviews
+{{< /button >}}
 
 ---
 
-## **Hear From Our Happy Clients**
+# 📧 Contact Me
 
-> “I had no idea where to start with my Minecraft server. They made it so easy and affordable!”  
-> — Alex P., Gaming Enthusiast
-
-> “Setting up a VPC seemed intimidating, but the support I got here was incredible. Highly recommend!”  
-> — Jamie L., Small Business Owner
-
----
-
-## **Get Started Today**
-
-🎮 **Set Up Your Dream Game Server**
+{{< button href="mailto:codylang@mail.com" target="_self" >}}
+✉ Email
+{{< /button >}}

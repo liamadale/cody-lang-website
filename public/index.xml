@@ -15,5 +15,12 @@
       <guid>http://localhost:1313/reviews/</guid>
       <description></description>
     </item>
+    <item>
+      <title>Services and Quote Range</title>
+      <link>http://localhost:1313/services/</link>
+      <pubDate>Tue, 26 Nov 2024 10:04:33 -0800</pubDate>
+      <guid>http://localhost:1313/services/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>
